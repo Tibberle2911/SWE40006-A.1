@@ -1,0 +1,6 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\LoggingLib\bin\Debug\LoggingLib.dll
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\LoggingLib\bin\Debug\LoggingLib.pdb
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\LoggingLib\obj\Debug\LoggingLib.csproj.AssemblyReference.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\LoggingLib\obj\Debug\LoggingLib.csproj.CoreCompileInputs.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\LoggingLib\obj\Debug\LoggingLib.dll
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\LoggingLib\obj\Debug\LoggingLib.pdb

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="Wix" Language="1033" Version="1.0.0.0" Manufacturer="Ngoc Tai Le" UpgradeCode="07cb2947-f1ca-44cc-b7e7-a7247eeefc4e">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="Wix" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="SWE40006-A.1.3" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<!-- <Component Id="ProductComponent"> -->
+			<!-- TODO: Insert files, registry keys, and other resources here. -->
+			<!-- </Component> -->
+
+			<Component Id="SWE40006_A.1.3.exe" Guid="891B9EC8-11FB-40C4-828D-FE48075A0459">
+				<File Name="SWE40006_A.1.3.exe" Source="C:\Users\Tyl2002\source\repos\SWE40006-A.1\CalculatorApp\bin\Debug\CalculatorApp.exe"/>
+			</Component>
+			
+			<Component Id="MathDLL" Guid="95B3EA8F-5B70-4DF2-A171-9784BBFA0DCF">
+				<File Name="MathLib" Source="C:\Users\Tyl2002\source\repos\SWE40006-A.1\CalculatorApp\bin\Debug\MathLib.dll"/>
+			</Component>
+
+			<Component Id="LogDLL" Guid="411454AF-7CA0-4EB6-AC06-0E0B33811B16">
+				<File Name="LoggingLib" Source="C:\Users\Tyl2002\source\repos\SWE40006-A.1\CalculatorApp\bin\Debug\LoggingLib.dll"/>
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

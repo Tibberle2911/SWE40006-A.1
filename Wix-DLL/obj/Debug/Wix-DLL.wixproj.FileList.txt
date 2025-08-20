@@ -1,0 +1,6 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\Wix-DLL\bin\Debug\Wix_DLL.msi
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\Wix-DLL\bin\Debug\Wix_DLL.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\Wix-DLL.wixproj.BindContentsFileListnull.txt
+obj\Debug\Wix-DLL.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Wix-DLL.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,9 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\obj\Debug\C#DESK.csproj.AssemblyReference.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\obj\Debug\C_DESK.Properties.Resources.resources
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\obj\Debug\C#DESK.csproj.GenerateResource.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\obj\Debug\C#DESK.csproj.CoreCompileInputs.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\bin\Debug\C#DESK.exe.config
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\bin\Debug\C#DESK.exe
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\bin\Debug\C#DESK.pdb
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\obj\Debug\C#DESK.exe
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\C#DESK\obj\Debug\C#DESK.pdb

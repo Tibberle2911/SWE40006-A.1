@@ -1,0 +1,2 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\WixC#\bin\Debug\WixC_.msi
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\WixC#\bin\Debug\WixC_.wixpdb

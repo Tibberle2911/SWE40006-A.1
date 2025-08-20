@@ -1,0 +1,6 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\MathLib\bin\Debug\MathLib.dll
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\MathLib\bin\Debug\MathLib.pdb
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\MathLib\obj\Debug\MathLib.csproj.AssemblyReference.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\MathLib\obj\Debug\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\MathLib\obj\Debug\MathLib.dll
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\MathLib\obj\Debug\MathLib.pdb

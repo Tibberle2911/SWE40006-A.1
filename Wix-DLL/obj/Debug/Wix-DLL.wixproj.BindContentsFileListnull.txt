@@ -1,0 +1,3 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\CalculatorApp\bin\Debug\LoggingLib.dll
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\CalculatorApp\bin\Debug\MathLib.dll
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\CalculatorApp\bin\Debug\CalculatorApp.exe

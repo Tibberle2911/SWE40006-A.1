@@ -1,0 +1,10 @@
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\bin\Debug\SWE40006-A.1.exe.config
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\bin\Debug\SWE40006-A.1.exe
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\bin\Debug\SWE40006-A.1.pdb
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006-A.1.csproj.AssemblyReference.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006_A._1.Form1.resources
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006_A._1.Properties.Resources.resources
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006-A.1.csproj.GenerateResource.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006-A.1.csproj.CoreCompileInputs.cache
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006-A.1.exe
+C:\Users\Tyl2002\source\repos\SWE40006-A.1\SWE40006-A.1\obj\Debug\SWE40006-A.1.pdb
